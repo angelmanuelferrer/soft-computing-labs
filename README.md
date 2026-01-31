@@ -44,9 +44,6 @@ Cada PDF contiene:
 - Ejemplos de implementación
 - Referencias bibliográficas
 
-## 📝 Licencia
-
-Material educativo para uso académico.
 
 ## 👤 Autor
 
